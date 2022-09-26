@@ -16,10 +16,12 @@ header {
 }
 
 #menu{
-    float: right;
+    float: right
 
 }
 
 #topHeader{
-    color: blue
+    color: blue;
+    padding-left: 10px;
+    
 }
