@@ -1,0 +1,20 @@
+header {
+    height: 70px;
+    background-color: red;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+    
+}
+
+#siteName{
+    float: left;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+#menu{
+    float: right;
+
+}
